@@ -45,7 +45,7 @@ export default function CvScroll() {
           </motion.h1>
           <p className="text-lg mt-2">Mahasiswa Sistem Informasi A - Semester 4</p>
           <motion.div className="relative inline-block mt-4" whileHover={{ rotate: 5 }}>
-            <Image src="/dzaky.jpg" alt="Profile Picture" width={150} height={150} className="rounded-full border-4 border-blue-500 shadow-lg" />
+            <Image src="/dzaky.JPG" alt="Profile Picture" width={150} height={150} className="rounded-full border-4 border-blue-500 shadow-lg" />
           </motion.div>
         </motion.div>
       </motion.section>
